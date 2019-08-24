@@ -1,2 +1,3 @@
 # hello-world
-Learning GitHub.
+
+I'm currently learning Python and studying probability.
